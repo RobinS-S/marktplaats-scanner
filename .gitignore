@@ -1,0 +1,4 @@
+node_modules/
+lastAds.json
+package-lock.json
+telegram_credentials.json

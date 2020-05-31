@@ -1,0 +1,15 @@
+{
+  "name": "marktplaats-scanner",
+  "version": "1.0.0",
+  "description": "Scans marktpaats.nl API for new ads and prints those to CLI and Telegram",
+  "main": "scanner.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
